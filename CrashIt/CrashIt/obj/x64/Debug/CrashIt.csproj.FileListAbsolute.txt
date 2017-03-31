@@ -1,0 +1,8 @@
+C:\Users\Matan@Matan\Documents\Visual Studio 2015\Projects\CrashIt\CrashIt\bin\x64\Debug\CrashIt.exe.config
+C:\Users\Matan@Matan\Documents\Visual Studio 2015\Projects\CrashIt\CrashIt\bin\x64\Debug\CrashIt.exe
+C:\Users\Matan@Matan\Documents\Visual Studio 2015\Projects\CrashIt\CrashIt\bin\x64\Debug\CrashIt.pdb
+C:\Users\Matan@Matan\Documents\Visual Studio 2015\Projects\CrashIt\CrashIt\obj\x64\Debug\CrashIt.Form1.resources
+C:\Users\Matan@Matan\Documents\Visual Studio 2015\Projects\CrashIt\CrashIt\obj\x64\Debug\CrashIt.Properties.Resources.resources
+C:\Users\Matan@Matan\Documents\Visual Studio 2015\Projects\CrashIt\CrashIt\obj\x64\Debug\CrashIt.csproj.GenerateResource.Cache
+C:\Users\Matan@Matan\Documents\Visual Studio 2015\Projects\CrashIt\CrashIt\obj\x64\Debug\CrashIt.exe
+C:\Users\Matan@Matan\Documents\Visual Studio 2015\Projects\CrashIt\CrashIt\obj\x64\Debug\CrashIt.pdb
