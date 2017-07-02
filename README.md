@@ -1,2 +1,2 @@
 # CrashIt
-The worst task manager
+Not the best task manager
